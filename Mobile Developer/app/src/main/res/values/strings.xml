@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">capstone1</string>
-    <string name="txt_home">home</string>
-    <string name="txt_maps">maps</string>
-    <string name="txt_profile">profile</string>
-    <string name="txt_search">search</string>
-</resources>
